@@ -1,16 +1,33 @@
-[README.md]
+<!-- repo-convergence:readme-header:start -->
+<!-- repo-convergence:language=FILL_ME -->
+# modal-synth
 
 <p align="center">
-  <a href="https://github.com/LjungrennAudio/modal_synth_code">
-    <img src="https://img.shields.io/github/stars/LjungrennAudio/modal_synth_code?style=for-the-badge" alt="GitHub stars" />
+  <a href="https://github.com/LjungrennAudio/modal-synth/releases">
+    <img src="https://img.shields.io/github/v/release/LjungrennAudio/modal-synth?color=4CAF50&label=release" alt="Release Version">
   </a>
-  <a href="https://github.com/LjungrennAudio/modal_synth_code/issues">
-    <img src="https://img.shields.io/github/issues/LjungrennAudio/modal_synth_code?style=for-the-badge" alt="GitHub issues" />
+  <a href="https://github.com/LjungrennAudio/modal-synth/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/license-Hybrid-green.svg" alt="License">
   </a>
-  <a href="https://github.com/LjungrennAudio/modal_synth_code/fork">
-    <img src="https://img.shields.io/github/forks/LjungrennAudio/modal_synth_code?style=for-the-badge" alt="GitHub forks" />
+  <img src="https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg" alt="Platform">
+  <a href="https://github.com/LjungrennAudio/modal-synth/actions">
+    <img src="https://img.shields.io/badge/build-workflow%20not%20set-lightgrey.svg" alt="Build Status">
   </a>
 </p>
+
+[![GitHub](https://img.shields.io/badge/GitHub-LjungrennAudio%2Fmodal-synth-blue?logo=github&style=flat-square)](https://github.com/LjungrennAudio/modal-synth)
+![Commits](https://img.shields.io/github/commit-activity/m/LjungrennAudio/modal-synth?label=commits)
+![Last Commit](https://img.shields.io/github/last-commit/LjungrennAudio/modal-synth)
+![Issues](https://img.shields.io/github/issues/LjungrennAudio/modal-synth)
+[![Version](https://img.shields.io/badge/version-3.1.1-blue.svg)](https://github.com/LjungrennAudio/modal-synth)
+[![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey.svg)](https://www.microsoft.com/windows)
+[![Language](https://img.shields.io/badge/language-FILL_ME-blue.svg)](#)
+[![Status](https://img.shields.io/badge/Status-Alpha%20Release-orange?style=flat-square)](#)
+
+<p align="center">
+  <img src="/assets/modal-synth-banner.png" width="850" alt="modal-synth Banner">
+</p>
+<!-- repo-convergence:readme-header:end -->
 
 Mutable Instruments' Eurorack Modules.
 
